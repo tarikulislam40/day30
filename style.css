@@ -1,0 +1,77 @@
+
+.carousel-item{
+    width: 100vw;
+    height: 80vh;
+   
+}
+.d-flex .btn{
+    color: #fff;
+}
+.carousel-control-prev{
+    background: none;
+    border: none;
+    margin: auto;
+}
+
+.carousel-control-next{
+    background: none;
+    border: none;
+    margin: auto;
+}
+.carousel-indicators button{
+    width: 50px;
+    height: 3px;
+    background: #fff;
+    border: none;
+     margin: 50px 5px;
+    outline: none;
+}
+
+
+.about{
+    padding: 60px 0;
+    width: 1100px;
+    margin: auto;
+}
+
+.carousel-caption{
+    margin: auto;
+    margin-bottom: 50px;
+     margin-right: 250px;
+}
+
+.accordion-body img{
+    width: 600px;
+}
+
+.accordion-item{
+    margin-left: 50px;
+}
+
+.aside button{
+    margin-top: 50px;
+}
+.any-item h3{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.form-select{
+    max-width: 220px;
+    margin-left: 100px;
+}
+.progress{
+    margin-bottom: 20px;
+    margin-right: 100px;
+}
+.bb{
+    background: rgb(54, 54, 61);
+    color: #fff;
+    margin-bottom: 50px;
+    padding: 20px 0;
+}
+.footer{
+}
+.footer p{
+    margin-bottom: 0;
+    text-align: center;
+}
